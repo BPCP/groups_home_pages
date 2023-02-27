@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Groups Home Pages
-Description: Adds a database table to store group home pages
+Description: Sets up different Home/Front Pages based on groups membership
 Version: 1.0
 */
 
