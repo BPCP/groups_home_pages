@@ -1,0 +1,13 @@
+input[name="order"],
+ .idex{
+    max-width:7em;
+}
+.wp-list-table{
+    max-width: 75em;
+} 
+.tablenav {
+    visibility: hidden ;
+}
+tfoot {
+    visibility: hidden;
+}
